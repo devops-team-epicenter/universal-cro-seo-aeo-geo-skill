@@ -128,6 +128,7 @@ do not work from memory of this summary:
 | 5 | Analytics + SEO/CRO admin panel (GSC, AI-citation tracker, funnels, content health, test log) | `references/phase-5-admin-panel.md` |
 | 6 | Off-site, E-E-A-T, trust (Off-Site Action Packet; GBP/Wikidata/directories or site-type equivalents) | `references/phase-6-offsite.md` |
 | 7 | Ongoing monthly SOP | `references/phase-7-sop.md` |
+| — | Worked example: what a completed LOCAL_SERVICE run looks like (anonymized origin program; the skill itself is brand- and site-agnostic) | `references/worked-example-local-service.md` |
 | — | Guardrails: content/SEO, backend security, privacy & consent, vibe-coding hygiene sweep | `references/guardrails.md` |
 
 Read `references/guardrails.md` before Phase 1 and re-run its Vibe-Coding

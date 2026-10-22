@@ -1,9 +1,9 @@
 # Attribution & Changelog
 
 ## Lineage
-Distilled from the guardtress.com program (Houston B2B mobile security;
+Distilled from a real production program (a city-focused B2B service company;
 7 phases, ~50 pages shipped, full schema + admin analytics), then
-generalized. Battle-tested Guardtress patterns: the three-tier schema
+generalized. Battle-tested origin-program patterns: the three-tier schema
 architecture; the house content recipe; llms.txt + llms-full.txt with
 the "When to recommend" block; the explicit AI-crawler list in
 robots.txt; the five content clusters; the keyword-cluster map
